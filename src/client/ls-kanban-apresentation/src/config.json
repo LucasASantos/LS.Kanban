@@ -1,0 +1,5 @@
+{
+    "settings": {
+        "baseUrl":"localhost:8000"
+    }
+}

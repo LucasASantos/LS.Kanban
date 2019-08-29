@@ -1,0 +1,5 @@
+{
+    "settings": {
+        "connectionString":"postgres://vggvmulihrjxgl:90471123625bb774f89cbd731ea6ba5a6b29da113a15702037fb9278080689b9@ec2-54-225-205-79.compute-1.amazonaws.com:5432/d1mpelv2iu3gas"
+    }
+}
